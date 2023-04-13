@@ -1,4 +1,4 @@
-# BR-_Group
+# BR_Group
 Тестовое задание для BR _Group на позицию Golang developer, разработчик backend (middle)
 
 Описание
