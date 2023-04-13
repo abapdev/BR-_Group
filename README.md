@@ -1,5 +1,5 @@
 # BR_Group
-Тестовое задание для BR _Group на позицию Golang developer, разработчик backend (middle)
+Тестовое задание для BR_Group на позицию Golang developer, разработчик backend (middle)
 
 Описание
 
